@@ -1,4 +1,4 @@
-ProgrammingAssignment2
+README file for ProgrammingAssignment2
 ======
 
 Hello,
